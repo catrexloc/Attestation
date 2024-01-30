@@ -4,11 +4,11 @@
 
 int rec(int m, int n)
 {
-if (m==n)
-return n;
-else 
-Console.WriteLine(m);
-return m + rec(m + 1, n);
+    if (m == n)
+        return n;
+    else
+        Console.WriteLine(m);
+    return m + rec(m + 1, n);
 }
 Console.Write("Вывести числа в промежутке");
 Console.Write("от: ");
