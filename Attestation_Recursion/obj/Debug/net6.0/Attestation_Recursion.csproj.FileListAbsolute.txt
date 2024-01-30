@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\bin\Debug\net6.0\Attestation_Recursion.exe
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\bin\Debug\net6.0\Attestation_Recursion.deps.json
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\bin\Debug\net6.0\Attestation_Recursion.runtimeconfig.json
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\bin\Debug\net6.0\Attestation_Recursion.dll
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\bin\Debug\net6.0\Attestation_Recursion.pdb
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.dll
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\refint\Attestation_Recursion.dll
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.pdb
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\Attestation_Recursion.genruntimeconfig.cache
+C:\Users\Админ\Desktop\Test\Attestation_Recursion\obj\Debug\net6.0\ref\Attestation_Recursion.dll
