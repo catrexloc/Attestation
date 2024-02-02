@@ -20,26 +20,42 @@
 
 // Задача 2: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n
 
-int rec(int m, int n)
-{
-    if (m == 0)
-    {
-        return n + 1;
-    }
-    else if (n == 0 && m > 0)
-    {
-        return rec(m - 1, 1);
-    }
-    else
-    {
-        return (rec(m - 1, rec(m, n - 1)));
-    }
+// int rec(int m, int n)
+// {
+//     if (m == 0)
+//     {
+//         return n + 1;
+//     }
+//     else if (n == 0 && m > 0)
+//     {
+//         return rec(m - 1, 1);
+//     }
+//     else
+//     {
+//         return (rec(m - 1, rec(m, n - 1)));
+//     }
+// }
+// Console.Clear();
+// Console.Write("Число m: ");
+// int m = Convert.ToInt32(Console.ReadLine());
+
+// Console.Write("Число n: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+
+// Console.Write($"m = {m}, n = {n} => {rec(m, n)}"); 
+
+//Задача 3
+
+void rec(int[] array, int i = 0)
+{ 
+   if (i != array.Length)
+   {
+      rec(array, i + 1);
+      Console.Write($"{array[i]} ");
+   }
 }
 Console.Clear();
-Console.Write("Число m: ");
-int m = Convert.ToInt32(Console.ReadLine());
+Console.Write($"[1, 7, 5, 6, 2] => ");
+int[] array = new int[] { 1, 7, 5, 6, 2 };
+rec(array);
 
-Console.Write("Число n: ");
-int n = Convert.ToInt32(Console.ReadLine());
-
-Console.Write($"m = {m}, n = {n} => {rec(m, n)}"); 
